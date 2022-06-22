@@ -36,3 +36,17 @@ We are learning git hub 101.
 
 I am adding some more new lines.
 We are on 9 day of our learning.
+
+
+
+
+print("Hello world")
+
+
+Name = "Mohsin"
+version = "Rstudio - in writing"
+
+print("name")
+print("These line has been writen in rstuio")
+
+
